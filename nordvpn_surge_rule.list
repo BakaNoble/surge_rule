@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,napps-1.com
 DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,nordaccount.com
 IP-CIDR,185.153.177.118/32,no-resolve
 IP-CIDR,37.19.199.39/32,no-resolve
 IP-CIDR,139.28.218.203/32,no-resolve
